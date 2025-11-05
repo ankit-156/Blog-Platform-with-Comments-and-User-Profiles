@@ -2,21 +2,26 @@
 
 This zip contains both frontend (React) and backend (Node.js + Express + MongoDB) with Socket.IO for realtime comments/posts.
 
-## Quick start
+## 📸 Project Output
 
-1. Start backend:
-```
-cd backend
-npm install
-cp .env.example .env   # then edit .env to add MONGO_URI and JWT_SECRET
-npm run dev
-```
+### 🖼️ Output 1
+![Output 1](OUTPUT/output_1.png)
 
-2. Start frontend (in a separate terminal):
-```
-cd frontend
-npm install
-npm start
-```
+### 🖼️ Output 2
+![Output 2](OUTPUT/output_2.png)
 
-Frontend expects `REACT_APP_API_URL` to point to the backend (default http://localhost:5000).
+### 🖼️ Output 3
+![Output 3](OUTPUT/output_3.png)
+
+### 🖼️ Output 4
+![Output 4](OUTPUT/output_4.png)
+
+### 🖼️ Output 5
+![Output 5](OUTPUT/output_5.png)
+
+### 🖼️ Output 6
+![Output 6](OUTPUT/output_6.png)
+
+### 🖼️ Output 7
+![Output 7](OUTPUT/output_7.png)
+
